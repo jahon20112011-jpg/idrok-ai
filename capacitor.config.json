@@ -1,0 +1,6 @@
+{
+  "appId": "uz.idrok.ai",
+  "appName": "IDROK AI",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
