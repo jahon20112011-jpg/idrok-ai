@@ -1,0 +1,1 @@
+window.IDROK_API = '';
